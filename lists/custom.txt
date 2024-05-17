@@ -1,0 +1,49 @@
+https://ublockorigin.github.io/uAssets/filters/filters-mobile.txt
+https://ublockorigin.github.io/uAssets/filters/filters.txt
+https://ublockorigin.github.io/uAssets/filters/badware.txt
+https://ublockorigin.github.io/uAssets/filters/privacy.txt
+https://ublockorigin.github.io/uAssets/filters/quick-fixes.txt
+https://ublockorigin.github.io/uAssets/filters/unbreak.txt
+
+# ads
+https://ublockorigin.github.io/uAssets/thirdparties/easylist.txt
+https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
+https://filters.adtidy.org/extension/ublock/filters/11.txt
+
+# privacy
+https://ublockorigin.github.io/uAssets/thirdparties/easyprivacy.txt
+https://filters.adtidy.org/extension/ublock/filters/3.txt
+https://filters.adtidy.org/extension/ublock/filters/17.txt
+
+# Malware protection, security
+https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-ag-online.txt
+https://malware-filter.gitlab.io/phishing-filter/phishing-filter.txt
+
+# Multipurpose
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
+https://someonewhocares.org/hosts/hosts
+
+# Cookie notices
+https://ublockorigin.github.io/uAssets/thirdparties/easylist-cookies.txt
+https://ublockorigin.github.io/uAssets/filters/annoyances-cookies.txt
+https://filters.adtidy.org/extension/ublock/filters/18.txt
+
+# Annoyances
+https://ublockorigin.github.io/uAssets/thirdparties/easylist-chat.txt
+https://ublockorigin.github.io/uAssets/thirdparties/easylist-newsletters.txt
+https://ublockorigin.github.io/uAssets/thirdparties/easylist-notifications.txt
+https://ublockorigin.github.io/uAssets/thirdparties/easylist-annoyances.txt
+https://filters.adtidy.org/extension/ublock/filters/20.txt
+https://filters.adtidy.org/extension/ublock/filters/21.txt
+https://filters.adtidy.org/extension/ublock/filters/19.txt
+https://filters.adtidy.org/extension/ublock/filters/22.txt
+https://ublockorigin.github.io/uAssets/filters/annoyances.txt
+
+# persianblocker
+https://cdn.statically.io/gh/MasterKia/PersianBlocker/main/PersianBlocker.txt
+
+# custom
+https://raw.githubusercontent.com/furkun/Anti-IP-Grabber-Hosts/main/hosts
+https://secure.fanboy.co.nz/fanboy-annoyance.txt
+https://big.oisd.nl/
+https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianAnnoyance.txt
